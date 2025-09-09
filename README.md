@@ -1,2 +1,1 @@
-# qa-bootcamp
-软测学习
+# QA Bootcamp (Windows)
